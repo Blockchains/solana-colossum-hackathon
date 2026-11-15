@@ -42,4 +42,3 @@ cloudformation/parameters-*.json
 ## currently avoiding windsurf rules ( for your personal descrption only).
 
 .windsurf/**
-config.bat
